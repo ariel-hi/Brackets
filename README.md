@@ -2,7 +2,7 @@
 Create your own tournament bracket. Fill it in as you progress.
 
 ### Setup
-Create an folder ("Items") in the same directory as Brackets.py
+Create an folder "Items" (or use the one provided) in the same directory as Brackets.py
 
 Store your .txt or .csv inside Items.
 
